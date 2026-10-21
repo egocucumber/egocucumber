@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,50:6366F1,100:92C353&height=220&section=header&text=egocucumber&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=GO%20BACKEND%20%2F%20MACHINE%20LEARNING&descSize=18&descAlignY=60" alt="egocucumber — Go Backend / Machine Learning" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,50:6366F1,100:92C353&height=220&section=header&text=egocucumber%20%F0%9F%A5%92&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=GO%20BACKEND%20%2F%20MACHINE%20LEARNING&descSize=18&descAlignY=60" alt="egocucumber 🥒 — Go Backend / Machine Learning" />
 
 ### Building services. Working with models. Connecting the two.
 

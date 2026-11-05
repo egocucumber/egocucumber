@@ -27,6 +27,12 @@
 
 **Winner of Center-invest Bank's “Artificial Intelligence for Sustainable Development Goals” competition.**
 
+<a href="https://news.donstu.ru/news/bolee-1100-uchastnikov-i-296-komand-v-dgtu-zavershilsya-khakaton-osen-2026">
+  <img src="https://img.shields.io/badge/Aeza-Hackathon_Winner_2026-00ADD8?style=for-the-badge" alt="Aeza Challenge Winner at Hackathon Autumn 2026" />
+</a>
+
+**Winner of Aeza's "Analyzer" customer churn prediction challenge at Hackathon Autumn 2026, part of the Southern IT Forum.**
+
 <br>
 
 ## What I build
